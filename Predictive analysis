@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Predictive Analysis for Traffic Flow</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding: 15px;
+            text-align: center;
+            font-size: 24px;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            background: #fff;
+            padding: 20px;
+            box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        }
+        h2 {
+            color: #333;
+        }
+        p {
+            line-height: 1.6;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background: #333;
+            color: #fff;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        Predictive Analysis for Traffic Flow & Congestion Management
+    </header>
+    
+    <div class="container">
+        <h2>Introduction</h2>
+        <p>Traffic congestion is a growing issue in urban areas, leading to increased travel times, fuel consumption, and pollution. This project aims to develop a predictive analytics system using machine learning techniques to anticipate congestion patterns and improve traffic management.</p>
+        
+        <h2>Problem Statement</h2>
+        <p>Current traffic management relies on reactive measures rather than predictive analytics. This project will provide authorities with real-time congestion forecasts, enabling proactive decision-making for better traffic control and route optimization.</p>
+        
+        <h2>Research Methodology</h2>
+        <p>We use real-time data sources like GPS tracking, road sensors, and CCTV cameras. Machine learning models such as Random Forest and LSTM will be implemented for accurate traffic prediction.</p>
+        
+        <h2>System Architecture</h2>
+        <p>The system consists of a data collection layer, a machine learning processing unit, and a visualization dashboard to provide real-time traffic insights.</p>
+    </div>
+    
+    <footer>
+        &copy; 2025 Traffic Prediction System | Designed for MCA Final Semester Project
+    </footer>
+</body>
+</html>
